@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(132, 132, 132);
+}
+
+h1 {
+    color: white;
+    font-size: 5rem;
+    font-family: "Space Mono", monospace, Courier, "Courier New", sans-serif;
+
+}
